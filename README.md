@@ -18,7 +18,7 @@ Estudiante de la carrera de Tecnicatura en Programacion informatica en UNSAM
 
 Foto de mi persona:
 
-![d]([https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=](https://github.com/algo1unsam/presentaciontp0-MatiasHernanDiaz/blob/main/a-brain-riding-a-rocketship.jpg))
+![d](https://github.com/algo1unsam/presentaciontp0-MatiasHernanDiaz/blob/main/a-brain-riding-a-rocketship.jpg)
 
 
 
