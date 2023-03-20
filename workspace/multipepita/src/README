@@ -1,4 +1,4 @@
-Pepita, pepon y  posee los siguientes metodos
+Pepita, pepon y pipa posee los siguientes metodos
 
 come(alimento,gramos) agrega energia 
 
@@ -37,3 +37,11 @@ Hacer que Pepita entienda el mensaje haceLoQueQuieras(). El comportamiento que t
 Si está débil, come alpiste.
 Si está feliz, vuela 8 kms.
 Si Pepita no está ni débil ni feliz, entonces no hace nada.
+
+Roque
+
+entrenar()
+          Volar 10 kms.
+          Comer alpiste.
+          Volar 5 kms.
+          Que el ave haga lo que quiera
