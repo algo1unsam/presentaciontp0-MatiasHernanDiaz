@@ -1,0 +1,39 @@
+Pepita, pepon y  posee los siguientes metodos
+
+come(alimento,gramos) agrega energia 
+
+volar(kilometros) pierde energia
+
+energia() getter de energia
+
+estaDebil(), Pepita está débil si su energía no llega a 50 joules.
+
+estaFeliz(), Pepita está feliz si su energía está entre 500 y 1000 joules.
+
+cuantoQuiereVolar() que es el resultado de la siguiente cuenta.
+                    De base, quiere volar (energía / 5) kilómetros, p.ej., si tiene 120 de energía, quiere volar 24 kilómetros.
+                    Sobre esta base, considerar los siguientes agregados:
+                    Si la energía está entre 300 y 400 joules, entonces sumar 10 kilómetros.
+                     Si la energía es múltiplo de 20, entonces sumar 15 kilómetros.
+
+salirAComer() volar hasta el depósito, 5 kilómetros,
+              comer alpiste, y finalmente
+              volver a su zona habitual, lo que implica volar otros 5 kilómetros.
+
+haceLoQueQuieras()
+                  Si está débil, come alpiste.
+                  Si está feliz, vuela 8 kms.
+                  Si Pepita no está ni débil ni feliz, entonces no hace nada.
+
+mijo tiene los metodos
+Si el mijo está mojado da 15 joules, si no da 20. Hacer que el mijo entienda los mensajes mojarse() y secarse().
+
+canelones
+tiene los metodos, ponerQueso() sacarQueso() ponerSalsa() sacarSalsa()
+Los canelones dan 20 joules. Si tienen salsa, sumar 5 joules. Si tienen queso, sumar 7.
+
+Hacer que Pepita entienda el mensaje haceLoQueQuieras(). El comportamiento que tiene pepita al recibir ese mensaje depende de su estado de ánimo:
+
+Si está débil, come alpiste.
+Si está feliz, vuela 8 kms.
+Si Pepita no está ni débil ni feliz, entonces no hace nada.
