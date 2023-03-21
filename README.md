@@ -2,9 +2,9 @@
 
 ## Estudiante: Matias Hernan Diaz
 
-Descripción
+### Descripción
 
-Estudiante de la carrera de Tecnicatura en Programacion informatica en UNSAM
+Estudiante de la carrera de **Tecnicatura en Programacion informatica** en *UNSA*
 
 Foto de mi persona:
 
