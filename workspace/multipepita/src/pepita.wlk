@@ -382,10 +382,16 @@ object canelones{
 
 object roque{
 	
-	method entrenar(_ave){
-		_ave.vuela(10)
-		_ave.come("alpiste",300)
-		_ave.vuela(5)
-		_ave.haceLoQueQuieras()
+	var ave 
+		
+	method tuPupiloEs(_ave){
+		ave = _ave //guardo el objeto en la variable
+	}
+	
+	method entrenar(){
+		ave.vuela(10)
+		ave.come("alpiste",300)
+		ave.vuela(5)
+		ave.haceLoQueQuieras()
 	}
 }
